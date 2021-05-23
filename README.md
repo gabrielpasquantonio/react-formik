@@ -1,6 +1,6 @@
 # Signup form with formik
 Create simple signup form with formik and use yup for the validation
-When click submit, it only console log the values
+Once you  click the register button, it only console log the values
 
 ## screenshot
 ![Signup screenshott](./src/assets/signup.png)
